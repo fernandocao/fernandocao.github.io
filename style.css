@@ -160,9 +160,23 @@
   z-index: 10;
 }
 
-.texto {
+.textoiconos {
   color: #fff;
   font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.iconos{
+  background-color: white;
+  border: 5px solid gray;
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.textoiconos {
+  color: #fff;
+  font-size: 32px;
   text-align: center;
   font-weight: bold;
 }
