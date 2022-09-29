@@ -2,6 +2,10 @@
   transition: all 0.3s ease;
 }
 
+a {
+  text-decoration: none;
+}
+
 .swiper-slide {
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
@@ -103,7 +107,7 @@
 
 .swiper-slide .content .caption {
   display: block;
-  font-size: 32px;
+  font-size: 24px;
   line-height: 1.4;
   transform: translateX(50px);
   opacity: 0;
